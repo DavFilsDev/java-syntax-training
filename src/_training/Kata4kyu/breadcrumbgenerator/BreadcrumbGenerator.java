@@ -1,4 +1,4 @@
-package _training.Kata4kyu;
+package _training.Kata4kyu.breadcrumbgenerator;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
