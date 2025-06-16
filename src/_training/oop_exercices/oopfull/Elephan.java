@@ -1,6 +1,6 @@
 package _training.oop_exercices.oopfull;
 
-public class Elephant extends ZooAnimal {
+class Elephant extends ZooAnimal {
     public Elephant(String name) {
         super(name, "Elephant");
     }
