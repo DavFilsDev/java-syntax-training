@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 /**
  * This class provides methods to calculate the factorial of a number.

@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 /**
  * Prints multiplication table for a given number.

@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 /**
  * Checks if a number is odd or even.

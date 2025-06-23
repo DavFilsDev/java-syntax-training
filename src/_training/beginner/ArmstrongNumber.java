@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 /**
  * This class checks if a number is an Armstrong number.

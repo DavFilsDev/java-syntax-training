@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 /**
  * Reverses a given string.

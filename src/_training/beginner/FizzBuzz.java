@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 /**
  * Classic FizzBuzz problem:

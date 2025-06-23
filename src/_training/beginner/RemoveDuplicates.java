@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 import java.util.Arrays;
 import java.util.LinkedHashSet;

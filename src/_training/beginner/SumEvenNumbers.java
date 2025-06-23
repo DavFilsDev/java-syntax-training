@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 /**
  * Calculates the sum of even numbers in an array.

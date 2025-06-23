@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 public class PalindromeChecker {
     public static boolean isPalindrome(String input) {

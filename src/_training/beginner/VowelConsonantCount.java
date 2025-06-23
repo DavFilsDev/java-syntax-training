@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 /**
  * Counts vowels and consonants in a given string.

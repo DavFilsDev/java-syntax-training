@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 public class PrintName {
     public static void main(String[] args) {

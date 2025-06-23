@@ -1,4 +1,4 @@
-package _training;
+package _training.beginner;
 
 /**
  * Finds the largest integer in an array.

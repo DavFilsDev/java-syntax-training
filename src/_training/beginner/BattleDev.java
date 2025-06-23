@@ -1,7 +1,4 @@
-package _training;
-
-import java.util.ArrayList;
-import java.util.List;
+package _training.beginner;
 
 public class BattleDev {
 //    static String getastDelegation(List<String> delegations) {
