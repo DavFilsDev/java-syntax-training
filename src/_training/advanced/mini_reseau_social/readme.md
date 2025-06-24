@@ -37,3 +37,37 @@ The class `ReseauSocialTest` provides unit tests using JUnit 5 to verify:
 ## ▶️ Run Tests
 
 Make sure you have JUnit 5 configured. Then run:
+
+```
+
+Right-click > Run ReseauSocialTest
+
+```
+
+## 📁 Suggested Repository Structure
+
+```
+
+training/
+├── src/
+│   ├── model/
+│   │   ├── Utilisateur.java
+│   │   ├── Publication.java
+│   │   └── ReseauSocial.java
+│   └── test/
+│       └── ReseauSocialTest.java
+├── README.md
+
+```
+
+---
+
+## ✅ Next Ideas
+
+- Add support for post likes
+- Add comments and replies
+- Add user ranking by activity
+
+---
+
+© 2025 – Java OOP training project by [David]
