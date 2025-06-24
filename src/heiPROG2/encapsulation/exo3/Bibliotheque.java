@@ -1,6 +1,5 @@
 package heiPROG2.encapsulation.exo3;
 
-// Bibliotheque.java
 import java.util.*;
 import java.util.stream.Collectors;
 

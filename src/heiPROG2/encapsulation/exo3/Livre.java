@@ -1,6 +1,4 @@
 package heiPROG2.encapsulation.exo3;
-
-// Livre.java
 import java.time.LocalDate;
 import java.util.Set;
 

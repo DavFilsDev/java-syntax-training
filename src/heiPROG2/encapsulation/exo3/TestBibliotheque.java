@@ -1,6 +1,5 @@
 package heiPROG2.encapsulation.exo3;
 
-// TestBibliotheque.java (fichier de test simple)
 import java.time.LocalDate;
 import java.util.Set;
 
