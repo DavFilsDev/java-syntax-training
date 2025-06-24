@@ -1,6 +1,4 @@
 package heiPROG2.encapsulation.exo3;
-
-// Auteur.java
 import java.time.LocalDate;
 
 public class Auteur {
