@@ -20,4 +20,3 @@ public class Client {
     public String getEmail() { return email; }
     public String getTelephone() { return telephone; }
 }
-
